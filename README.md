@@ -265,7 +265,7 @@ John
 
 ## Submission Deliverables
 9. GitHub repository link OR zipped project folder
-10. `README.md` containing:
+10. `README_DEV.md` containing:
    - Setup instructions for backend and frontend
    - `.env` example
    - Commands to run project
@@ -284,7 +284,7 @@ Candidate fails immediately if any of the following is true:
 ❌ Backend crashes on deep trees  
 ❌ Frontend does not display results  
 ❌ Project does not run with simple setup  
-❌ No README submitted  
+❌ No README_DEV submitted  
 
 ---
 
